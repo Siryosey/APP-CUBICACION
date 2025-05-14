@@ -1,6 +1,6 @@
 package com.maderacubicacion.app
 
-import android.content.Intent
+import android.content.Intent            // 👈 ESTA ES LA IMPORTACIÓN QUE FALTA
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.maderacubicacion.app.databinding.ActivityMainBinding
